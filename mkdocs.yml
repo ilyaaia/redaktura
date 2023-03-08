@@ -23,6 +23,7 @@ theme:
         name: Светлое оформление
     features:
       - navigation.indexes
+      - navigation.expand
 plugins:
   - search
   - i18n:
