@@ -2,8 +2,10 @@ site_name: Редактура
 site_url: https://example.com/
 nav:
     - Home: index.md
-    - Статьи: articles.md
-    - Документы: docs.md
+    - Статьи: 
+        - articles/Полезное.md
+    #- Документы: 
+    #    - documents/
     - Ссылки: links.md
     - About: about.md
 theme:
